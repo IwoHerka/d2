@@ -1,0 +1,23 @@
+@font-face {
+  font-family: customFont;
+  src: url(fonts/JetBrainsMono-VariableFont_wght.ttf);
+}
+
+body {
+    padding: 2em;
+    background-color: #fff;
+    color: #111;
+}
+
+a {
+    color: red;
+}
+
+html {
+    font-family: customFont;
+}
+
+.dark-theme {
+    background-color: #262626;
+    color: #fff;
+}
